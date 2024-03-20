@@ -14,11 +14,13 @@ Feel free to explore the projects, and I hope you find something that piques you
 
 # Projects 🛠️
 
-
 | SL No | Project Name      | Description               |
 | ----- | ------------------| ------------------------- |
-| 1     | Python Dice Roller            | This is a simple dice stimulator made using Python.                                                     
-| 2     | DOCX_PDF_Converter            | This script conert Docx file to Pdf and vice-versa Python.                                                                                                                 
-| 3     | Bsic Calculator            | This script can perform basic calculations
-| 4     | Greetings            | This pyhon script greets you based on time
+|   1  | Python Dice Roller                  | This is a simple dice stimulator made using Python.                                                     
+|   2  | DOCX_PDF_Converter                  | This script converts Docx files to PDF and vice-versa Python.                                                              
+|  3  | Basic Calculator                    | This script can perform basic calculations
+|  4  | Greetings                           | This Python script greets you based on the time
 
+
+# Author 🤖
+**Dev Goyal**
