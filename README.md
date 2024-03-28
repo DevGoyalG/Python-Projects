@@ -14,12 +14,14 @@ Feel free to explore the projects, and I hope you find something that piques you
 
 # Projects 🛠️
 
-| SL No | Project Name      | Description               |
+| S. No. | Project Name      | Description               |
 | ----- | ------------------| ------------------------- |
-|   1  | Python Dice Roller                  | This is a simple dice stimulator made using Python.                                                     
-|   2  | DOCX_PDF_Converter                  | This script converts Docx files to PDF and vice-versa Python.                                                              
-|  3  | Basic Calculator                    | This script can perform basic calculations
-|  4  | Greetings                           | This Python script greets you based on the time
+|  1  | Basic Calculator                    | Simple Python program for performing basic arithmetic operations.
+|  2  | DOCX PDF Converter                  | Python script for converting DOCX files to PDF format and vice-versa.                            
+|  3  | Greetings                           | Python program for generating personalized greetings. 
+|  4  | Image Compressor                    | Python tool for reducing image file sizes without compromising quality.
+|  5  | Dice Roller                         | A simple Python script for rolling virtual dice.                                                      
+|  6  | YouTube Video Downloader            | Python script to easily download YouTube videos.                                                            
 
 
 # Author 🤖
