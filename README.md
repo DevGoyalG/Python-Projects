@@ -5,7 +5,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
 
-Welcome to my Python Projects Collection! 
+Welcome to my Python Projects Collection ! 
 
 This repository is a curated assembly of small, yet impactful Python projects that I have developed. Each project within this collection showcases a unique application of Python programming, ranging from data analysis and visualization to web scraping and automation.
 
